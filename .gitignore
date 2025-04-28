@@ -1,3 +1,4 @@
 aws/.env
 aws/pyspark_accessKeys.csv
-data/flights.csv
+data/*
+.gitignore
